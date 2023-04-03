@@ -3,7 +3,7 @@ function func(){
 };
 
 function func1(){
-    document.getElementById('link').style.color = '#111111';
+    document.getElementById('link').style.color = '#ffffff';
 };
 
 function action(){

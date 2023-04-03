@@ -1,0 +1,1 @@
+document.write('<h1>Iniziamo la nostra pratica</h1><h3 id="right">output scritto da JavaScript</br>panntera scritto da JavaScript</h3>');

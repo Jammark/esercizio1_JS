@@ -1,0 +1,48 @@
+
+body{
+    background-color: #415fe1;
+    padding-left: 100;
+}
+
+h1{
+    font-size: 1.8em;
+    color: white;
+}
+
+h3{
+    font-size: 0.8em;
+    color: white;
+}
+
+li{
+    font-size: 0.7em;
+    color: white;
+}
+
+a{
+    font-size: 0.8em;
+    color: white;
+}
+
+#container{
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
+
+#immagine{
+    width: 250px;
+    height: 250px;
+}
+
+
+
+#link:hover{
+    color: black;
+}
+
+#right{
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
